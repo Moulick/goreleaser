@@ -24,6 +24,7 @@ const (
 
 	useBuildx     = "buildx"
 	useDocker     = "docker"
+	useNerdctl    = "nerdctl"
 	useBuildPacks = "buildpacks" // deprecated: should not be used anymore
 )
 
